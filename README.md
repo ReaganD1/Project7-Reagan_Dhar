@@ -36,8 +36,9 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/116980504/231939769-f5c9bf22-2f10-4cb0-9d52-32e22f66485c.gif)
 
-<img src='https://i.imgur.com/051j2id.gif' title='Pokemon API' width='' alt='Pokemon API' />
+<img src='https://i.imgur.com/051j2id' title='Pokemon API' width='' alt='Pokemon API' />
 
 GIF created with **your chosen GIF tool**
 
